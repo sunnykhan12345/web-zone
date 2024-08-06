@@ -1,0 +1,8 @@
+{
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+    "editor.formatOnSave": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "editor.defaultFoldingRangeProvider": "rvest.vs-code-prettier-eslint"
+}
